@@ -1,7 +1,3 @@
 # y2mp3
+This application serves a simple function and that is to convert youtube videos into audio
 
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
